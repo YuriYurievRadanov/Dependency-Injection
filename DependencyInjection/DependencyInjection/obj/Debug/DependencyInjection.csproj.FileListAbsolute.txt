@@ -1,0 +1,7 @@
+D:\InterviewS\PREPARING\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+D:\InterviewS\PREPARING\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+D:\InterviewS\PREPARING\DependencyInjection\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+D:\InterviewS\PREPARING\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\InterviewS\PREPARING\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+D:\InterviewS\PREPARING\DependencyInjection\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
